@@ -1,7 +1,7 @@
  graphql-fastify-service1
-setup initial level documentaition
+Intial level setup for graphql using the fastify server
 
-## Run using following comment
+## Run application using following comment
 ```
 npm install 
 ```
